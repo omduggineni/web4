@@ -3,8 +3,8 @@
 title: Om Duggineni
 description: subtitle and other stuff
 
-baseurl: web4 #name of GitHub repository
-url: "https://omduggineni.github.io/" #custom url to be used instead of GitHub repository
+baseurl: / #name of GitHub repository
+url: "https://omduggineni.github.io/web4" #custom url to be used instead of GitHub repository
 email: #
 
 
