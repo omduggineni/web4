@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Om Duggineni
+description: subtitle and other stuff
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: web4 #name of GitHub repository
+url: "https://omduggineni.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 
